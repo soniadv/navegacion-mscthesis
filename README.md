@@ -1,6 +1,8 @@
 # navegacion-mscthesis
 Navegación robusta de vehículos autónomos
+
 Tesis de Maestría
+
 Sonia Dávila
 
 Mapeo:
